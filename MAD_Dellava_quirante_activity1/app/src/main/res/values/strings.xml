@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD_Dellava_quirante_activity1</string>
+    <string name="text">HELLO WORLD!</string>
+    <string name="font_color">Change font color</string>
+    <string name="inc_size">Change font size (+)</string>
+
+</resources>
